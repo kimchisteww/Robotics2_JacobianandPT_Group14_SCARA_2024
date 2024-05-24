@@ -2,8 +2,9 @@
 <img width="100%" height="300"src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif"/>
 
 
-<h2 align= center> 
-<B></B>ROBOTICS 2:FINAL PROJECT
+<h1 align= center> 
+<B></B>&#x2022;ROBOTICS 2&#x2022;
+ <h2 align= center>FINAL PROJECT
 <h1 align= center><blue text> JACOBIAN MATRIX PATH AND TRAJECTORY
 
 ##
