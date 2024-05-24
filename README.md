@@ -7,7 +7,7 @@
 <h1 align= center><blue text> JACOBIAN MATRIX PATH AND TRAJECTORY
 
 ##
-<h1 align= left> INTRODUCTION
+<h1 align= center> INTRODUCTION
   
 <p align="center">  
 <img width="75%" src="https://blogs.mathworks.com/racing-lounge/files/2019/11/trap_vs_poly.gif">
@@ -82,7 +82,7 @@ This code provides a foundation for the Jacobian matrix. You can extend this pro
 * Visualizing the relationship between joint velocities and end-effector motion.
 * Analyzing the manipulability workspace of a specific robot using the Jacobian determinant.
 
-<h2 align= left> &#x2022;JACOBIAN MATRIX CALCULATOR OF SCARA MANIPULATOR&#x2022;
+<h1 align= center> &#x2022;JACOBIAN MATRIX CALCULATOR OF SCARA MANIPULATOR&#x2022;
 
 ##
   
